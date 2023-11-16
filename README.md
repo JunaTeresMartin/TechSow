@@ -52,12 +52,13 @@ To get started with TechSow, follow these simple steps:
 
 ## Contributors 👥
 
-- John Farmer - Project Lead
-- Mary AgTech - Machine Learning Specialist
-- Sam SoilMaster - Rover Integration Expert
+- Juna Teres Martin - Project Lead
+- Afna Ayshu Jaffin -
+- Nimitha Joy
+- Rese Raju
 
 ## Support and Contact 🤝
 
-For any issues or inquiries, feel free to contact our support team at support@techsow.com.
+For any issues or inquiries, feel free to contact our support team at junateresmartin2024@cs.sjcetpalai.ac.in
 
 Happy Farming! 🌾🌞
